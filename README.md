@@ -10,6 +10,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFA611)
+![GitHub](https://img.shields.io/badge/-GitHub-181717)
 ![Ren'Py](https://img.shields.io/badge/-Ren'Py-FF69B4)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC)
 ![Microsoft Office](https://img.shields.io/badge/-MS%20Office-D83B01)
