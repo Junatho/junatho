@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Juan!
+# Hello there. My name is Juan 👋
 
 🎓 I am a final-year IT student passionate about:
 - 🌐 Web Development
