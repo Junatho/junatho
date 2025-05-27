@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋 My name is Juan!
 
-<!--
-**Junatho/junatho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a final-year IT student passionate about:
+- 🌐 Web Development
+- 📱 App Development
 
-Here are some ideas to get you started:
+## 🔧 Skills
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Firebase](https://img.shields.io/badge/-Firebase-FFA611)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔗 [Lamson Care](https://care-lamson.web.app/) - Medical Products Catalogue Webpage (Currently Working On 🛠️)
+- 🔗 [ThrillX](https://project-alpha-6c73b.web.app/) - Extreme sports and attractions webpage
+- 🔗 [UPH Web Survey](https://project-alpha-6c73b.web.app/) - Webpage for UPH's survey needs.
+
+## 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junatho&layout=compact&theme=radical)
+
+## 📫 Reach me at:
+- Email: juan.nathanael.18@gmail.com
+- LinkedIn: [Juan Hermanto](https://www.linkedin.com/in/juan-hermanto/)
