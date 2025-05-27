@@ -17,7 +17,7 @@
 ## 📂 Projects
 - 🔗 [Lamson Care](https://care-lamson.web.app/) - Medical Products Catalogue Webpage (Currently Working On 🛠️)
 - 🔗 [ThrillX](https://project-alpha-6c73b.web.app/) - Extreme sports and attractions webpage
-- 🔗 [UPH Web Survey](https://project-alpha-6c73b.web.app/) - Webpage for UPH's survey needs.
+- 🔗 [UPH Web Survey](https://uph-event-admin-1-r5h5cxkwq-christianp5s-projects.vercel.app/) - Webpage for UPH's survey needs.
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junatho&layout=compact&theme=radical)
