@@ -5,23 +5,31 @@
 - 📱 App Development
 
 ## 🔧 Skills
+### **Programming & Frameworks**
 ![HTML](https://img.shields.io/badge/-HTML-orange)
-![CSS](https://img.shields.io/badge/-CSS-blue)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Java](https://img.shields.io/badge/-Java-007396)
+![Python](https://img.shields.io/badge/-Python-3776AB)
+![Gherkin](https://img.shields.io/badge/-Gherkin-00A818)
+
+### **Tools & Platforms**
 ![Firebase](https://img.shields.io/badge/-Firebase-FFA611)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717)
-![Ren'Py](https://img.shields.io/badge/-Ren'Py-FF69B4)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC)
 ![Microsoft Office](https://img.shields.io/badge/-MS%20Office-D83B01)
 
+### **Design**
+![Web Design](https://img.shields.io/badge/-Web%20Design-8E44AD)
+![Game Design](https://img.shields.io/badge/-Game%20Design-2C3E50)
+
 ## 📂 Projects
-- 🔗 [Lamson Care](https://care-lamson.web.app/) - Medical Products Catalogue Webpage (Currently Working On 🛠️)
+- 🔗 [Lamson Care](https://care-lamson.web.app/) - Medical Products Catalogue Webpage
 - 🔗 [ThrillX](https://project-alpha-6c73b.web.app/) - Extreme sports and attractions webpage
 - 🔗 [UPH Web Survey](https://uph-event-admin-1-r5h5cxkwq-christianp5s-projects.vercel.app/) - Webpage for UPH's survey needs.
 
 ## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junatho&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=junatho&layout=compact&theme=radical)
 
 ## 📫 Reach me at:
 - Email: juan.nathanael.18@gmail.com
